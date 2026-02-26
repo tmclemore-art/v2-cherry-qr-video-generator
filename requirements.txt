@@ -1,0 +1,8 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+Pillow==10.1.0
+qrcode==7.4.2
+boto3==1.29.7
+requests==2.31.0
+gunicorn==21.2.0
+opencv-python-headless==4.10.0.84
